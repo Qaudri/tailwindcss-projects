@@ -1,0 +1,4 @@
+[main 416da52] First commit
+ 3 files changed, 35 insertions(+), 33 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 Assets/Images/time.svg
